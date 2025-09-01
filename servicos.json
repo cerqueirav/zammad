@@ -1,0 +1,664 @@
+{
+  "servicos": [
+    {
+      "id": "teleclinica-ampliada",
+      "titulo": "Teleclínica Ampliada",
+      "categoria": "matriciamento",
+      "link": "/teleclinica-ampliada",
+      "dados": {
+        "o_que_e": "Serviço de apoio matricial do Telessaúde Bahia, integrando especialistas da FMB-UFBA, equipe de Medicina de Família e Comunidade do Telessaúde e especialistas em Endocrinologia, Angiologia e Nefrologia do CEDEBA. Visa qualificar o cuidado clínico, apoiar a tomada de decisão e fortalecer a atuação médica na Atenção Primária à Saúde (APS).",
+        "publico_alvo": [
+          {
+            "perfil": "Médicos da APS",
+            "escopo": "podem solicitar suporte em diversas especialidades."
+          },
+          {
+            "perfil": "Enfermeiros da APS",
+            "escopo": "podem solicitar Teleconsultoria apenas para Ginecologia."
+          }
+        ],
+        "especialidades_disponiveis_para_medicos": [
+          "Angiologia",
+          "Dermatologia",
+          "Endocrinologia",
+          "Ginecologia",
+          "Hepatologia",
+          "Imunologia",
+          "Medicina de Família e Comunidade",
+          "Nefrologia",
+          "Pediatria",
+          "Psiquiatria",
+          "Urologia"
+        ],
+        "o_que_deve_ser_enviado": [
+          {
+            "item": "Informações clínicas completas"
+          },
+          {
+            "item": "Exames laboratoriais e de imagem relevantes"
+          },
+          {
+            "item": "Dermatologia",
+            "detalhes": "imagens da lesão"
+          },
+          {
+            "item": "Psiquiatria",
+            "detalhes": "antecedentes psicológicos e evolução clínica"
+          }
+        ],
+        "solicitacao": "Pelo Sistema de Telessaúde e Telemedicina (STT), garantindo registro completo do caso clínico.",
+        "prazos_resposta": {
+          "fmb_ufba_cedeba": "até 7 dias",
+          "mfc_telessaude_bahia": "até 72 horas"
+        },
+        "portfolio": {
+          "teleclinica_ampliada_ba": [
+            "Dermatologia – Matriciamento",
+            "Ginecologia – Matriciamento (PTGI / Prevenção do Câncer de Colo Uterino)",
+            "Hepatologia/Gastroenterologia – Matriciamento",
+            "Imunologia/Alergologia – Matriciamento",
+            "Medicina de Família e Comunidade – Matriciamento",
+            "Neuropediatria – Matriciamento",
+            "Pediatria: Endocrinologia – Matriciamento",
+            "Pediatria: Gastroenterologia/Nutrologia – Matriciamento",
+            "Pediatria Geral – Matriciamento",
+            "Pediatria: Hepatologia – Matriciamento",
+            "Pediatria: Infectologia – Matriciamento",
+            "Pediatria: Medicina Intensiva – Matriciamento",
+            "Pediatria: Psiquiatria – Matriciamento",
+            "Pediatria: Reumatologia – Matriciamento",
+            "Psiquiatria Adulto – Matriciamento",
+            "Urologia – Matriciamento"
+          ],
+          "telecedeba_ba_relacionado": [
+            "Angiologia",
+            "Endocrinologia Adulto",
+            "Endocrinologia – Obesidade Adulto",
+            "Endocrinologia Pediátrica",
+            "Nefrologia"
+          ],
+          "observacao": "Ao clicar, direcionar para o portfólio da rede específica."
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Serviço de apoio matricial do Telessaúde Bahia, integrando especialistas da FMB-UFBA, equipe de Medicina de Família e Comunidade do Telessaúde e especialistas em Endocrinologia, Angiologia e Nefrologia do CEDEBA. Visa qualificar o cuidado clínico, apoiar a tomada de decisão e fortalecer a atuação médica na Atenção Primária à Saúde (APS).</p><h3>Público-alvo</h3><ul><li><strong>Médicos da APS:</strong> podem solicitar suporte em diversas especialidades.</li><li><strong>Enfermeiros da APS:</strong> podem solicitar Teleconsultoria apenas para Ginecologia.</li></ul><h3>Especialidades disponíveis para médicos</h3><ul><li>Angiologia</li><li>Dermatologia</li><li>Endocrinologia</li><li>Ginecologia</li><li>Hepatologia</li><li>Imunologia</li><li>Medicina de Família e Comunidade</li><li>Nefrologia</li><li>Pediatria</li><li>Psiquiatria</li><li>Urologia</li></ul><h3>O que deve ser enviado</h3><ul><li>Informações clínicas completas.</li><li>Exames laboratoriais e de imagem relevantes.</li><li><strong>Dermatologia:</strong> imagens da lesão.</li><li><strong>Psiquiatria:</strong> antecedentes psicológicos e evolução clínica.</li></ul><h3>Solicitação</h3><p>Pelo Sistema de Telessaúde e Telemedicina (STT), garantindo registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>FMB/UFBA e CEDEBA:</strong> até 7 dias.</li><li><strong>Equipe de Medicina de Família e Comunidade (Telessaúde BA):</strong> até 72 horas.</li></ul>"
+    },
+    {
+      "id": "telesaude-bucal",
+      "titulo": "Telessaúde Bucal",
+      "categoria": "matriciamento",
+      "link": "/telesaude-bucal",
+      "dados": {
+        "o_que_e": "Serviço de apoio matricial voltado a toda a equipe de Saúde Bucal da APS. Cirurgiões-dentistas contam com suporte adicional de Estomatologia (FMB-UFBA).",
+        "publico_alvo": [
+          {
+            "perfil": "Cirurgiões-dentistas da APS",
+            "escopo": "suporte para Estomatologia e temas gerais de Saúde Bucal na APS."
+          },
+          {
+            "perfil": "Equipe de Saúde Bucal da APS",
+            "escopo": "teleconsultoria para temas gerais de Saúde Bucal na APS."
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Informações completas do caso",
+          "Exames e dados clínicos relevantes",
+          "Imagens intraorais",
+          "Histórico relevante do paciente"
+        ],
+        "solicitacao": "Pelo STT, garantindo registro completo do caso clínico.",
+        "prazos_resposta": {
+          "fmb_ufba": "até 7 dias",
+          "telesaude_ba": "até 72 horas"
+        },
+        "portfolio": {
+          "telesaude_bucal_ba": [
+            "Estomatologia – Matriciamento",
+            "Temas do escopo da Saúde Bucal na APS – Matriciamento"
+          ]
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais de Saúde Bucal",
+            "url": "https://telessaude.saude.ba.gov.br/tele-saude-bucal/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Serviço de apoio matricial voltado a toda a equipe de Saúde Bucal da APS. Cirurgiões-dentistas contam com suporte adicional de Estomatologia (FMB-UFBA).</p><h3>Público-alvo</h3><ul><li><strong>Cirurgiões-dentistas:</strong> Estomatologia e temas gerais.</li><li><strong>Equipe de Saúde Bucal:</strong> temas gerais na APS.</li></ul><h3>O que deve ser enviado</h3><ul><li>Informações completas do caso</li><li>Exames e dados clínicos relevantes</li><li>Imagens intraorais</li><li>Histórico relevante do paciente</li></ul><h3>Solicitação</h3><p>Pelo STT, garantindo registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>FMB/UFBA:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/tele-saude-bucal/' target='_blank'>Materiais de Saúde Bucal</a></p>"
+    },
+    {
+      "id": "telematerna-infantil",
+      "titulo": "Telematerna-Infantil",
+      "categoria": "matriciamento",
+      "link": "/telematerna-infantil",
+      "dados": {
+        "o_que_e": "Serviço de apoio matricial especializado em parceria com a Maternidade Climério de Oliveira (MCO), voltado à APS para pré-natal de alto risco, gestação de risco habitual e urgências obstétricas, integrando o projeto MConecta Saúde Digital.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de saúde da APS"
+          }
+        ],
+        "especialidades_medicos_aps": [
+          "Cardiologia (Adulto e Pediátrica)",
+          "Endocrinologia Adulto",
+          "Hematologia Adulto",
+          "Infectologia Adulto",
+          "Neuropediatria",
+          "Obstetrícia",
+          "Neonatologia",
+          "Psiquiatria Adulto"
+        ],
+        "especialidades_profissionais_aps": [
+          "Aleitamento Materno (apoio de Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)",
+          "Gestação de Risco Habitual",
+          "Psicologia"
+        ],
+        "o_que_deve_ser_enviado": [
+          {
+            "contexto": "Gestante/Puérpera",
+            "itens": [
+              "Idade materna, IG e histórico obstétrico relevante",
+              "Comorbidades",
+              "Queixa principal/motivo",
+              "Exames laboratoriais e de imagem disponíveis",
+              "Condutas já realizadas"
+            ]
+          },
+          {
+            "contexto": "Recém-nascido",
+            "itens": [
+              "Idade (dias/semanas) e IG ao nascer",
+              "Peso ao nascer e atual",
+              "Condições do parto e intercorrências",
+              "Queixa principal/motivo",
+              "Exames disponíveis",
+              "Condutas já realizadas"
+            ]
+          }
+        ],
+        "solicitacao": "Pelo STT, com registro completo do caso clínico.",
+        "prazos_resposta": {
+          "mco": "até 7 dias",
+          "telesaude_ba": "até 72 horas"
+        },
+        "portfolio": {
+          "telematerna_infantil_ba": [
+            "Cardiologia Adulto – Matriciamento",
+            "Cardiologia Pediátrica – Matriciamento",
+            "Endocrinologia Adulto – Matriciamento",
+            "Hematologia Adulto – Matriciamento",
+            "Infectologia Adulto – Matriciamento",
+            "Neonatologia – Matriciamento",
+            "Neuropediatria – Matriciamento",
+            "Obstetrícia / Pré-natal de Alto Risco – Matriciamento",
+            "Orientações sobre Amamentação – Matriciamento",
+            "Pré-natal de Risco Habitual – Matriciamento",
+            "Psicologia – Matriciamento",
+            "Psiquiatria Adulto – Matriciamento"
+          ]
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Serviço de apoio matricial especializado em parceria com a Maternidade Climério de Oliveira (MCO), voltado à APS para pré-natal de alto risco, gestação de risco habitual e urgências obstétricas, integrando o projeto MConecta Saúde Digital.</p><h3>Público-alvo</h3><p>Profissionais de saúde da APS.</p><h3>Especialidades (médicos APS)</h3><ul><li>Cardiologia (Adulto e Pediátrica)</li><li>Endocrinologia Adulto</li><li>Hematologia Adulto</li><li>Infectologia Adulto</li><li>Neuropediatria</li><li>Obstetrícia</li><li>Neonatologia</li><li>Psiquiatria Adulto</li></ul><h3>Especialidades (profissionais APS)</h3><ul><li>Aleitamento Materno (apoio de Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)</li><li>Gestação de Risco Habitual</li><li>Psicologia</li></ul><h3>O que deve ser enviado</h3><h4>Gestante/Puérpera</h4><ul><li>Idade materna, IG e histórico obstétrico relevante</li><li>Comorbidades</li><li>Queixa principal/motivo</li><li>Exames laboratoriais e de imagem disponíveis</li><li>Condutas já realizadas</li></ul><h4>Recém-nascido</h4><ul><li>Idade (dias/semanas) e IG ao nascer</li><li>Peso ao nascer e atual</li><li>Condições do parto e intercorrências</li><li>Queixa principal/motivo</li><li>Exames disponíveis</li><li>Condutas já realizadas</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>MCO:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul>"
+    },
+    {
+      "id": "telegestao",
+      "titulo": "Telegestão e Promoção à Saúde",
+      "categoria": "matriciamento",
+      "link": "/telegestao",
+      "dados": {
+        "o_que_e": "Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.",
+        "publico_alvo": [
+          {
+            "perfil": "Gestores da APS"
+          },
+          {
+            "perfil": "Profissionais de saúde de nível superior e médio"
+          },
+          {
+            "perfil": "Demais profissionais atuantes na APS"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Dúvidas sobre organização/qualificação dos processos de trabalho",
+          "Apoio em estratégias educativas e mobilização social",
+          "Discussão de temas de promoção e prevenção considerando o território"
+        ],
+        "solicitacao": "Pelo STT.",
+        "prazos_resposta": {
+          "padrao": "até 72 horas"
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.</p><h3>Público-alvo</h3><ul><li>Gestores da APS</li><li>Profissionais de saúde de nível superior e médio</li><li>Demais profissionais atuantes na APS</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre organização/qualificação dos processos de trabalho</li><li>Apoio em estratégias educativas e mobilização social</li><li>Discussão de temas de promoção e prevenção considerando o território</li></ul><h3>Solicitação</h3><p>Pelo STT.</p><h3>Prazo de resposta</h3><p>Até 72 horas.</p>"
+    },
+    {
+      "id": "telenfermagem",
+      "titulo": "Telenfermagem",
+      "categoria": "matriciamento",
+      "link": "/telenfermagem",
+      "dados": {
+        "o_que_e": "Apoio à equipe de enfermagem da APS em três frentes: equipe do Telessaúde (temas gerais), equipe do CEDEBA para enfermeiros (DM1/DM2, obesidade, pé diabético), e teleconsultoria em Ginecologia (FMB-UFBA). Inclui matriciamento MCO para Amamentação e Pré-natal de Risco Habitual.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de enfermagem da APS"
+          }
+        ],
+        "especialidades_enfermeiros_aps": [
+          "DM1/DM2 (adulto e pediátrico)",
+          "Obesidade",
+          "Pé diabético e complicações",
+          "Ginecologia: PTGI / Prevenção do Câncer de Colo Uterino",
+          "Obstetrícia: Pré-natal de Risco Habitual"
+        ],
+        "especialidades_para_toda_equipe": [
+          "Temas gerais da atuação da enfermagem na APS",
+          "Aleitamento Materno com apoio multiprofissional (Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Dúvidas sobre cuidados gerais de enfermagem na APS",
+          "Manejo de diabetes/obesidade/pé diabético, com exames e imagens relevantes",
+          "Informações clínicas completas"
+        ],
+        "solicitacao": "Pelo STT, com registro completo do caso clínico.",
+        "prazos_resposta": {
+          "fmb_mco_cedeba": "até 7 dias",
+          "telesaude_ba": "até 72 horas"
+        },
+        "portfolio": {
+          "telenfermagem_ba": [
+            "DM1 Infantojuvenil (CEDEBA) – Matriciamento",
+            "DM2 (CEDEBA) – Matriciamento",
+            "Manejo no Pé Diabético (CEDEBA) – Matriciamento",
+            "Obesidade Adulto (CEDEBA) – Matriciamento",
+            "Temas do Escopo da Enfermagem na APS – Matriciamento"
+          ],
+          "teleclinica_medica_ba": [
+            "Ginecologia – Matriciamento"
+          ],
+          "telematerna_infantil_ba": [
+            "Orientações sobre Amamentação – Matriciamento",
+            "Pré-natal de Risco Habitual – Matriciamento"
+          ]
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio à equipe de enfermagem da APS em três frentes: equipe do Telessaúde (temas gerais), equipe do CEDEBA para enfermeiros (DM1/DM2, obesidade, pé diabético), e teleconsultoria em Ginecologia (FMB-UFBA). Inclui matriciamento MCO para Amamentação e Pré-natal de Risco Habitual.</p><h3>Público-alvo</h3><p>Profissionais de enfermagem da APS.</p><h3>Especialidades (enfermeiros APS)</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Pé diabético e complicações</li><li>Ginecologia: PTGI / Prevenção do Câncer de Colo Uterino</li><li>Obstetrícia: Pré-natal de Risco Habitual</li></ul><h3>Para toda a equipe</h3><ul><li>Temas gerais da atuação da enfermagem na APS</li><li>Aleitamento Materno com apoio multiprofissional (Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre cuidados gerais de enfermagem na APS</li><li>Manejo de diabetes/obesidade/pé diabético, com exames e imagens relevantes</li><li>Informações clínicas completas</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>FMB/MCO/CEDEBA:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul>"
+    },
+    {
+      "id": "tele-suspec",
+      "titulo": "TELe-SUS/PEC",
+      "categoria": "matriciamento",
+      "link": "/e-sus-bahia",
+      "dados": {
+        "o_que_e": "Suporte técnico na operacionalização da Estratégia e-SUS APS na APS.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais da APS usuários do e-SUS APS"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Dúvidas sobre prontuário eletrônico e módulos (Território, Atividade Coletiva, Vacinação, AD, Gestão)",
+          "Integração dos sistemas com a prática clínica e fluxos",
+          "Estruturação de registros e qualificação de dados"
+        ],
+        "solicitacao": "Pelo STT, com registro completo do caso clínico.",
+        "prazos_resposta": {
+          "padrao": "até 7 dias"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do e-SUS",
+            "url": "https://telessaude.saude.ba.gov.br/e-sus-bahia/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Suporte técnico na operacionalização da Estratégia e-SUS APS na APS.</p><h3>Público-alvo</h3><p>Profissionais da APS usuários do e-SUS APS.</p><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre prontuário eletrônico e módulos (Território, Atividade Coletiva, Vacinação, AD, Gestão)</li><li>Integração dos sistemas com a prática clínica e fluxos</li><li>Estruturação de registros e qualificação de dados</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><p>Até 7 dias.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/e-sus-bahia/' target='_blank'>Materiais do e-SUS</a></p>"
+    },
+    {
+      "id": "telenutricao",
+      "titulo": "Telenutrição",
+      "categoria": "matriciamento",
+      "link": "/telenutricao",
+      "dados": {
+        "o_que_e": "Apoio matricial especializado pela equipe de Nutrição do CEDEBA para nutricionistas da APS; foco em DM1/DM2 e Obesidade (adulto e pediátrico). Inclui matriciamento MCO sobre Amamentação.",
+        "publico_alvo": [
+          {
+            "perfil": "Nutricionistas da APS"
+          }
+        ],
+        "especialidades": [
+          "DM1/DM2 (adulto e pediátrico)",
+          "Obesidade",
+          "Aleitamento Materno (apoio multiprofissional: Nutrição, Fono, Odonto, Enfermagem, Neonatologia)"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Dúvidas clínicas em nutrição comportamental e manejo de DM/Obesidade",
+          "Informações clínicas completas e exames relevantes"
+        ],
+        "solicitacao": "Pelo STT, com registro completo do caso clínico.",
+        "prazos_resposta": {
+          "mco_cedeba": "até 7 dias"
+        },
+        "portfolio": {
+          "telenutricao_ba": [
+            "DM e Obesidade Infantojuvenil (CEDEBA) – Matriciamento",
+            "Obesidade (CEDEBA) – Matriciamento"
+          ],
+          "telematerna_infantil_ba": [
+            "Orientações sobre Amamentação – Matriciamento"
+          ]
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio matricial especializado pela equipe de Nutrição do CEDEBA para nutricionistas da APS; foco em DM1/DM2 e Obesidade (adulto e pediátrico). Inclui matriciamento MCO sobre Amamentação.</p><h3>Público-alvo</h3><p>Nutricionistas da APS.</p><h3>Especialidades</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Aleitamento Materno (apoio multiprofissional: Nutrição, Fono, Odonto, Enfermagem, Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas clínicas em nutrição comportamental e manejo de DM/Obesidade</li><li>Informações clínicas completas e exames relevantes</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
+    },
+    {
+      "id": "telecdap",
+      "titulo": "TeleCEDAP",
+      "categoria": "matriciamento",
+      "link": "/telecedap",
+      "dados": {
+        "o_que_e": "Centro especializado em HIV/Aids, ISTs e atenção à saúde de pessoas transgênero; acolhe gestantes com HIV/Aids, prevenção da transmissão vertical e PrEP.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais da APS, SAE/CTA e Policlínicas"
+          }
+        ],
+        "especialidades": [
+          "Infectologia",
+          "Ginecologia"
+        ],
+        "ambulatorios": [
+          "IST (gestantes, violência sexual, sinais de IST)",
+          "Virologia (HIV/Aids e hepatites virais, equipe multiprofissional)",
+          "Transexualizador (pessoas trans e não binárias, suporte multiprofissional)"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Idade, sexo/gênero e nome social (se houver)",
+          "Diagnóstico e histórico resumido; motivo da solicitação; sinais e sintomas",
+          "Exames (CD4, carga viral, sorologias etc.) e medicações em uso",
+          "Gestante: IG, intercorrências, TARV, exames obstétricos e histórico obstétrico",
+          "Pessoa trans: tratamento hormonal e esquema",
+          "Envio de formulário obrigatório (link)"
+        ],
+        "solicitacao": "Pelo STT, com registro completo do caso clínico.",
+        "prazos_resposta": {
+          "padrao": "até 72 horas"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do CEDAP",
+            "url": "https://telessaude.saude.ba.gov.br/telecedap/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Centro especializado em HIV/Aids, ISTs e atenção à saúde de pessoas transgênero; acolhe gestantes com HIV/Aids, prevenção da transmissão vertical e PrEP.</p><h3>Público-alvo</h3><p>Profissionais da APS, SAE/CTA e Policlínicas.</p><h3>Especialidades</h3><ul><li>Infectologia</li><li>Ginecologia</li></ul><h3>Ambulatórios</h3><ul><li>IST (gestantes, violência sexual, sinais de IST)</li><li>Virologia (HIV/Aids e hepatites virais, equipe multiprofissional)</li><li>Transexualizador (pessoas trans e não binárias, suporte multiprofissional)</li></ul><h3>O que deve ser enviado</h3><ul><li>Idade, sexo/gênero e nome social (se houver)</li><li>Diagnóstico e histórico resumido; motivo da solicitação; sinais e sintomas</li><li>Exames (CD4, carga viral, sorologias etc.) e medicações em uso</li><li>Gestante: IG, intercorrências, TARV, exames obstétricos e histórico obstétrico</li><li>Pessoa trans: tratamento hormonal e esquema</li><li>Envio de formulário obrigatório (link)</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><p>Até 72 horas.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecedap/' target='_blank'>Materiais do CEDAP</a></p>"
+    },
+    {
+      "id": "telehemoba",
+      "titulo": "TeleHEMOBA",
+      "categoria": "matriciamento",
+      "link": "/telehemoba",
+      "dados": {
+        "o_que_e": "Em definição.",
+        "publico_alvo": [
+          {
+            "perfil": "Em breve"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Em breve"
+        ],
+        "solicitacao": "Em breve.",
+        "prazos_resposta": {
+          "padrao": "Em breve"
+        }
+      },
+      "corpoHtml": "<p>Em breve.</p>"
+    },
+    {
+      "id": "telecedeba",
+      "titulo": "TeleCEDEBA",
+      "categoria": "regulacao",
+      "link": "/telecedeba",
+      "dados": {
+        "o_que_e": "Centro de Diabetes e Endocrinologia da Bahia (CEDEBA) apoia a APS via telerregulação para casos com critérios de matrícula. Analisa encaminhamentos e, quando não há critério, devolve orientação matricial.",
+        "publico_alvo": [
+          {
+            "perfil": "Médicos da APS"
+          },
+          {
+            "perfil": "Enfermeiros e Nutricionistas",
+            "escopo": "podem solicitar com relatório médico detalhado."
+          }
+        ],
+        "especialidades_medicos": [
+          "Angiologia",
+          "Diabetes Gestacional/gestantes diabéticas",
+          "Diabetes Mellitus tipo 2",
+          "Diabetes Mellitus tipo 1",
+          "Endocrinologia",
+          "Endocrinologia Pediátrica",
+          "Hipertireoidismo/Nódulo de tireoide",
+          "Hipotireoidismo",
+          "Nefrologia",
+          "Obesidade"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico detalhado",
+          "Exames recentes: TSH, T4L, glicemia, insulina, perfil lipídico; US de tireoide (laudo/imagens)",
+          "Para Angiologia: ITB e dor em repouso/claudicação",
+          "Para Obesidade: peso, altura, IMC, histórico de perda/medicação, acompanhamentos e exames"
+        ],
+        "solicitacao": "Pelo STT.",
+        "prazos_resposta": {
+          "padrao": "até 7 dias"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do CEDEBA",
+            "url": "https://telessaude.saude.ba.gov.br/telecedeba/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Centro de Diabetes e Endocrinologia da Bahia (CEDEBA) apoia a APS via telerregulação para casos com critérios de matrícula. Analisa encaminhamentos e, quando não há critério, devolve orientação matricial.</p><h3>Público-alvo</h3><ul><li>Médicos da APS</li><li>Enfermeiros e Nutricionistas (com relatório médico)</li></ul><h3>Especialidades para médicos</h3><ul><li>Angiologia</li><li>Diabetes Gestacional/gestantes diabéticas</li><li>Diabetes Mellitus tipo 2</li><li>Diabetes Mellitus tipo 1</li><li>Endocrinologia</li><li>Endocrinologia Pediátrica</li><li>Hipertireoidismo/Nódulo de tireoide</li><li>Hipotireoidismo</li><li>Nefrologia</li><li>Obesidade</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico detalhado</li><li>Exames recentes: TSH, T4L, glicemia, insulina, perfil lipídico; US de tireoide (laudo/imagens)</li><li>Para Angiologia: ITB e dor em repouso/claudicação</li><li>Para Obesidade: peso, altura, IMC, histórico de perda/medicação, acompanhamentos e exames</li></ul><h3>Solicitação</h3><p>Pelo STT.</p><h3>Prazo de resposta</h3><p>Até 7 dias.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecedeba/' target='_blank'>Materiais do CEDEBA</a></p>"
+    },
+    {
+      "id": "telecepred",
+      "titulo": "TeleCEPRED",
+      "categoria": "regulacao",
+      "link": "/telecepred",
+      "dados": {
+        "o_que_e": "CEPRED oferece reabilitação física, auditiva e intelectual; acolhimento assistencial via telerregulação (análise dos encaminhamentos).",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de nível superior da APS"
+          },
+          {
+            "perfil": "Profissionais de nível superior dos CERs/EURs, Maternidades e Hospitais públicos"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico completo e detalhado com o tipo de concessão/reabilitação necessário",
+          "CEPRED não agenda consultas individuais para única especialidade",
+          "Preenchimento do formulário do site (por caso)"
+        ],
+        "fluxo_pacientes_com_matricula": [
+          "Salvador: comparecer ao SAME do CEPRED (cartão/documento), sem Telessaúde",
+          "Interior: contato (71) 3103-6217 / 3103-6226 ou e-mail cepred.cogesp@saude.ba.gov.br"
+        ],
+        "prazos_resposta": {
+          "agendamento": "até 3 meses"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do CEPRED",
+            "url": "https://telessaude.saude.ba.gov.br/telecepred/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>CEPRED oferece reabilitação física, auditiva e intelectual; acolhimento assistencial via telerregulação (análise dos encaminhamentos).</p><h3>Público-alvo</h3><ul><li>Profissionais de nível superior da APS</li><li>Profissionais de nível superior dos CERs/EURs, Maternidades e Hospitais públicos</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico completo e detalhado com o tipo de concessão/reabilitação necessário</li><li>CEPRED não agenda consultas individuais para única especialidade</li><li>Preenchimento do formulário do site (por caso)</li></ul><h3>Pacientes com matrícula</h3><ul><li>Salvador: comparecer ao SAME do CEPRED (cartão/documento), sem Telessaúde</li><li>Interior: contato (71) 3103-6217 / 3103-6226 ou e-mail cepred.cogesp@saude.ba.gov.br</li></ul><h3>Prazo de resposta</h3><p>Até 3 meses para informar agendamento.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecepred/' target='_blank'>Materiais do CEPRED</a></p>"
+    },
+    {
+      "id": "teleraras",
+      "titulo": "TeleRaras",
+      "categoria": "regulacao",
+      "link": "/teleraras",
+      "dados": {
+        "o_que_e": "Acolhimento de Doenças Raras/Genéticas por Telerregulação; define pertinência, prioridade e necessidade de encaminhamento ao ambulatório de genética do HUPES.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de nível superior da APS"
+          },
+          {
+            "perfil": "Profissionais de nível superior de Hospitais públicos"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico completo e detalhado, indicando acompanhamento com Geneticista",
+          "Preenchimento do formulário do site conforme o caso"
+        ],
+        "prazos_resposta": {
+          "agendamento": "até 7 dias"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do TeleRaras",
+            "url": "https://telessaude.saude.ba.gov.br/teleraras/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Acolhimento de Doenças Raras/Genéticas por Telerregulação; define pertinência, prioridade e necessidade de encaminhamento ao ambulatório de genética do HUPES.</p><h3>Público-alvo</h3><ul><li>Profissionais de nível superior da APS</li><li>Profissionais de nível superior de Hospitais públicos</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico completo e detalhado, indicando acompanhamento com Geneticista</li><li>Preenchimento do formulário do site conforme o caso</li></ul><h3>Prazo de resposta</h3><p>Até 7 dias.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/teleraras/' target='_blank'>Materiais do TeleRaras</a></p>"
+    },
+    {
+      "id": "telecreasi",
+      "titulo": "TeleCREASI",
+      "categoria": "regulacao",
+      "link": "/telecreasi",
+      "dados": {
+        "o_que_e": "CREASI oferece atendimento especializado em geriatria/gerontologia para idosos (60+) com declínio funcional; acolhe pela Telerregulação.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de Saúde da APS"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico descrito",
+          "Formulário do site em PDF (não foto/digitalizado)",
+          "Valores do IVCF-20"
+        ],
+        "prazos_resposta": {
+          "padrao": "até 15 dias"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do CREASI",
+            "url": "https://telessaude.saude.ba.gov.br/telecreasi/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>CREASI oferece atendimento especializado em geriatria/gerontologia para idosos (60+) com declínio funcional; acolhe pela Telerregulação.</p><h3>Público-alvo</h3><p>Profissionais de Saúde da APS.</p><h3>O que deve ser enviado</h3><ul><li>Caso clínico descrito</li><li>Formulário do site em PDF (não foto/digitalizado)</li><li>Valores do IVCF-20</li></ul><h3>Prazo de resposta</h3><p>Até 15 dias.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecreasi/' target='_blank'>Materiais do CREASI</a></p>"
+    },
+    {
+      "id": "telecican",
+      "titulo": "TeleCICAN",
+      "categoria": "regulacao",
+      "link": "/telecican",
+      "dados": {
+        "o_que_e": "CICAN acolhe demandas por Telerregulação; analisa tecnicamente encaminhamentos de casos oncológicos suspeitos/confirmados.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de Saúde de nível superior da APS"
+          }
+        ],
+        "especialidades": [
+          "Cirurgia Oncológica",
+          "Cirurgia Vascular",
+          "Clínica da Dor-Psiquiatria",
+          "Coloproctologia",
+          "Dermatologia",
+          "Ginecologia",
+          "Mastologia",
+          "Oncologia Clínica",
+          "Urologia"
+        ],
+        "nao_atendem": [
+          "Pulmão",
+          "Hepatobiliar",
+          "Pâncreas",
+          "Esôfago (exceto transição esofágica)",
+          "Cabeça e Pescoço",
+          "SNC (ex: Glioblastoma)",
+          "Rim",
+          "Bexiga (Doença não músculo invasiva)",
+          "Melanoma",
+          "Pacientes com disfunção orgânica (Renal; Hepática)"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico descrito",
+          "Formulário do site em PDF",
+          "Exames atualizados com resultados"
+        ],
+        "prazos_resposta": {
+          "padrao": "até 72 horas"
+        },
+        "links_uteis": [
+          {
+            "rotulo": "Materiais do CICAN",
+            "url": "https://telessaude.saude.ba.gov.br/telecican/"
+          }
+        ]
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>CICAN acolhe demandas por Telerregulação; analisa tecnicamente encaminhamentos de casos oncológicos suspeitos/confirmados.</p><h3>Público-alvo</h3><p>Profissionais de Saúde de nível superior da APS.</p><h3>Especialidades</h3><ul><li>Cirurgia Oncológica</li><li>Cirurgia Vascular</li><li>Clínica da Dor-Psiquiatria</li><li>Coloproctologia</li><li>Dermatologia</li><li>Ginecologia</li><li>Mastologia</li><li>Oncologia Clínica</li><li>Urologia</li></ul><h3>Não atendem</h3><ul><li>Pulmão</li><li>Hepatobiliar</li><li>Pâncreas</li><li>Esôfago (exceto transição esofágica)</li><li>Cabeça e Pescoço</li><li>SNC (ex: Glioblastoma)</li><li>Rim</li><li>Bexiga (Doença não músculo invasiva)</li><li>Melanoma</li><li>Pacientes com disfunção orgânica (Renal; Hepática)</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico descrito</li><li>Formulário do site em PDF</li><li>Exames atualizados com resultados</li></ul><h3>Prazo de resposta</h3><p>Até 72 horas.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecican/' target='_blank'>Materiais do CICAN</a></p>"
+    },
+    {
+      "id": "telereproducao",
+      "titulo": "Telerreprodução Assistida",
+      "categoria": "regulacao",
+      "link": "/telereproducao",
+      "dados": {
+        "o_que_e": "HUPES oferece apoio matricial e telerregulação em Reprodução Humana Assistida para profissionais da APS e serviços especializados da rede SUS BA. Teleconsultoria orienta manejo, prevenção de fatores de risco preconcepcional e condução de infertilidade/perdas gestacionais/teratogenicidade. Telerregulação avalia pertinência, prioridade e completude para acesso aos ambulatórios do HUPES.",
+        "publico_alvo": [
+          {
+            "perfil": "Profissionais de Saúde de nível superior da APS"
+          }
+        ],
+        "especialidades": [
+          "Reprodução Humana"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Caso clínico descrito da mulher ou do casal",
+          "Exames atualizados e respectivos resultados"
+        ],
+        "prazos_resposta": {
+          "padrao": "até 7 dias"
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>HUPES oferece apoio matricial e telerregulação em Reprodução Humana Assistida para profissionais da APS e serviços especializados da rede SUS BA. Teleconsultoria orienta manejo, prevenção de fatores de risco preconcepcional e condução de infertilidade/perdas gestacionais/teratogenicidade. Telerregulação avalia pertinência, prioridade e completude para acesso aos ambulatórios do HUPES.</p><h3>Público-alvo</h3><p>Profissionais de Saúde de nível superior da APS.</p><h3>Especialidades</h3><ul><li>Reprodução Humana</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico descrito da mulher ou do casal</li><li>Exames atualizados e respectivos resultados</li></ul><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
+    },
+    {
+      "id": "teleneurocirurgia",
+      "titulo": "Teleneurocirurgia",
+      "categoria": "regulacao",
+      "link": "/teleneurocirurgia",
+      "dados": {
+        "o_que_e": "Rede de Teleneurocirurgia faz telerregulação da fila de neurocirurgia do HGCA (Feira de Santana), organizando o acesso e priorizando urgências.",
+        "publico_alvo": [
+          {
+            "perfil": "Médicos da APS"
+          }
+        ],
+        "especialidades": [
+          "Neurocirurgia"
+        ],
+        "o_que_deve_ser_enviado": [
+          "Relato clínico completo com hipótese diagnóstica",
+          "Exames de imagem atualizados (TC, RM, RX, quando disponíveis)",
+          "Relatórios e laudos de especialistas (se houver)",
+          "Informações sobre uso de medicamentos e tratamentos já realizados"
+        ],
+        "prazos_resposta": {
+          "padrao": "até 7 dias"
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Rede de Teleneurocirurgia faz telerregulação da fila de neurocirurgia do HGCA (Feira de Santana), organizando o acesso e priorizando urgências.</p><h3>Público-alvo</h3><p>Médicos da APS.</p><h3>Especialidades</h3><ul><li>Neurocirurgia</li></ul><h3>O que deve ser enviado</h3><ul><li>Relato clínico completo com hipótese diagnóstica</li><li>Exames de imagem atualizados (TC, RM, RX, quando disponíveis)</li><li>Relatórios e laudos de especialistas (se houver)</li><li>Informações sobre uso de medicamentos e tratamentos já realizados</li></ul><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
+    }
+  ],
+  "selecionarPrimeiro": true
+}
