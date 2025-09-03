@@ -200,6 +200,36 @@
       "corpoHtml": "<h3>O que é?</h3><p>Serviço de apoio matricial especializado em parceria com a Maternidade Climério de Oliveira (MCO), voltado à APS para pré-natal de alto risco, gestação de risco habitual e urgências obstétricas, integrando o projeto MConecta Saúde Digital.</p><h3>Público-alvo</h3><p>Profissionais de saúde da APS.</p><h3>Especialidades (médicos APS)</h3><ul><li>Cardiologia (Adulto e Pediátrica)</li><li>Endocrinologia Adulto</li><li>Hematologia Adulto</li><li>Infectologia Adulto</li><li>Neuropediatria</li><li>Obstetrícia</li><li>Neonatologia</li><li>Psiquiatria Adulto</li></ul><h3>Especialidades (profissionais APS)</h3><ul><li>Aleitamento Materno (apoio de Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)</li><li>Gestação de Risco Habitual</li><li>Psicologia</li></ul><h3>O que deve ser enviado</h3><h4>Gestante/Puérpera</h4><ul><li>Idade materna, IG e histórico obstétrico relevante</li><li>Comorbidades</li><li>Queixa principal/motivo</li><li>Exames laboratoriais e de imagem disponíveis</li><li>Condutas já realizadas</li></ul><h4>Recém-nascido</h4><ul><li>Idade (dias/semanas) e IG ao nascer</li><li>Peso ao nascer e atual</li><li>Condições do parto e intercorrências</li><li>Queixa principal/motivo</li><li>Exames disponíveis</li><li>Condutas já realizadas</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>MCO:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul>"
     },
     {
+      "id": "telegestao",
+      "titulo": "Telegestão e Promoção à Saúde",
+      "categoria": "matriciamento",
+      "link": "/telegestao",
+      "dados": {
+        "o_que_e": "Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.",
+        "publico_alvo": [
+          {
+            "perfil": "Gestores da APS"
+          },
+          {
+            "perfil": "Profissionais de saúde de nível superior e médio"
+          },
+          {
+            "perfil": "Demais profissionais atuantes na APS"
+          }
+        ],
+        "o_que_deve_ser_enviado": [
+          "Dúvidas sobre organização/qualificação dos processos de trabalho",
+          "Apoio em estratégias educativas e mobilização social",
+          "Discussão de temas de promoção e prevenção considerando o território"
+        ],
+        "solicitacao": "Pelo STT.",
+        "prazos_resposta": {
+          "padrao": "até 72 horas"
+        }
+      },
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.</p><h3>Público-alvo</h3><ul><li>Gestores da APS</li><li>Profissionais de saúde de nível superior e médio</li><li>Demais profissionais atuantes na APS</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre organização/qualificação dos processos de trabalho</li><li>Apoio em estratégias educativas e mobilização social</li><li>Discussão de temas de promoção e prevenção considerando o território</li></ul><h3>Solicitação</h3><p>Pelo STT.</p><h3>Prazo de resposta</h3><p>Até 72 horas.</p>"
+    },
+    {
       "id": "telenfermagem",
       "titulo": "Telenfermagem",
       "categoria": "matriciamento",
@@ -603,36 +633,6 @@
         }
       },
       "corpoHtml": "<h3>O que é?</h3><p>Rede de Teleneurocirurgia faz telerregulação da fila de neurocirurgia do HGCA (Feira de Santana), organizando o acesso e priorizando urgências.</p><h3>Público-alvo</h3><p>Médicos da APS.</p><h3>Especialidades</h3><ul><li>Neurocirurgia</li></ul><h3>O que deve ser enviado</h3><ul><li>Relato clínico completo com hipótese diagnóstica</li><li>Exames de imagem atualizados (TC, RM, RX, quando disponíveis)</li><li>Relatórios e laudos de especialistas (se houver)</li><li>Informações sobre uso de medicamentos e tratamentos já realizados</li></ul><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
-    },
-    {
-      "id": "telegestao",
-      "titulo": "Telegestão e Promoção à Saúde",
-      "categoria": "matriciamento",
-      "link": "/telegestao",
-      "dados": {
-        "o_que_e": "Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.",
-        "publico_alvo": [
-          {
-            "perfil": "Gestores da APS"
-          },
-          {
-            "perfil": "Profissionais de saúde de nível superior e médio"
-          },
-          {
-            "perfil": "Demais profissionais atuantes na APS"
-          }
-        ],
-        "o_que_deve_ser_enviado": [
-          "Dúvidas sobre organização/qualificação dos processos de trabalho",
-          "Apoio em estratégias educativas e mobilização social",
-          "Discussão de temas de promoção e prevenção considerando o território"
-        ],
-        "solicitacao": "Pelo STT.",
-        "prazos_resposta": {
-          "padrao": "até 72 horas"
-        }
-      },
-      "corpoHtml": "<h3>O que é?</h3><p>Apoio para fortalecer gestão e práticas de promoção/prevenção em saúde na APS; qualifica processos de trabalho e educação em saúde.</p><h3>Público-alvo</h3><ul><li>Gestores da APS</li><li>Profissionais de saúde de nível superior e médio</li><li>Demais profissionais atuantes na APS</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre organização/qualificação dos processos de trabalho</li><li>Apoio em estratégias educativas e mobilização social</li><li>Discussão de temas de promoção e prevenção considerando o território</li></ul><h3>Solicitação</h3><p>Pelo STT.</p><h3>Prazo de resposta</h3><p>Até 72 horas.</p>"
     }
   ],
   "selecionarPrimeiro": true
