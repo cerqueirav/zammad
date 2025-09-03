@@ -118,7 +118,7 @@
         },
         "links_uteis": [
           {
-            "rotulo": "Coluna Telessaúde Bucal",
+            "rotulo": "Portfólio de Saúde Bucal",
             "url": "https://telessaude.saude.ba.gov.br/tele-saude-bucal/"
           }
         ]
@@ -304,7 +304,7 @@
         },
         "links_uteis": [
           {
-            "rotulo": "Materiais do e-SUS",
+            "rotulo": "Portfólio e-SUS",
             "url": "https://telessaude.saude.ba.gov.br/e-sus-bahia/"
           }
         ]
@@ -326,7 +326,7 @@
         "especialidades": [
           "DM1/DM2 (adulto e pediátrico)",
           "Obesidade",
-          "Aleitamento Materno (apoio multiprofissional: Nutrição, Fono, Odonto, Enfermagem, Neonatologia)"
+          "Aleitamento Materno (apoio multiprofissional: Nutrição, Fonoaudiologia, Odontologia, Enfermagem, Neonatologia)"
         ],
         "o_que_deve_ser_enviado": [
           "Dúvidas clínicas em nutrição comportamental e manejo de DM/Obesidade",
@@ -346,7 +346,7 @@
           ]
         }
       },
-      "corpoHtml": "<h3>O que é?</h3><p>Apoio matricial especializado pela equipe de Nutrição do CEDEBA para nutricionistas da APS; foco em DM1/DM2 e Obesidade (adulto e pediátrico). Inclui matriciamento MCO sobre Amamentação.</p><h3>Público-alvo</h3><p>Nutricionistas da APS.</p><h3>Especialidades</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Aleitamento Materno (apoio multiprofissional: Nutrição, Fono, Odonto, Enfermagem, Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas clínicas em nutrição comportamental e manejo de DM/Obesidade</li><li>Informações clínicas completas e exames relevantes</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio matricial especializado pela equipe de Nutrição do CEDEBA para nutricionistas da APS; foco em DM1/DM2 e Obesidade (adulto e pediátrico). Inclui matriciamento MCO sobre Amamentação.</p><h3>Público-alvo</h3><p>Nutricionistas da APS.</p><h3>Especialidades</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Aleitamento Materno (apoio multiprofissional: Nutrição, Fonoaudiologia, Odontologia, Enfermagem, Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas clínicas em nutrição comportamental e manejo de DM/Obesidade</li><li>Informações clínicas completas e exames relevantes</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
     },
     {
       "id": "telecdap",
@@ -606,31 +606,6 @@
         ]
       },
       "corpoHtml": "<h3>O que é?</h3><p>CICAN acolhe demandas por Telerregulação; analisa tecnicamente encaminhamentos de casos oncológicos suspeitos/confirmados.</p><h3>Público-alvo</h3><p>Profissionais de Saúde de nível superior da APS.</p><h3>Especialidades</h3><ul><li>Cirurgia Oncológica</li><li>Cirurgia Vascular</li><li>Clínica da Dor-Psiquiatria</li><li>Coloproctologia</li><li>Dermatologia</li><li>Ginecologia</li><li>Mastologia</li><li>Oncologia Clínica</li><li>Urologia</li></ul><h3>Não atendem</h3><ul><li>Pulmão</li><li>Hepatobiliar</li><li>Pâncreas</li><li>Esôfago (exceto transição esofágica)</li><li>Cabeça e Pescoço</li><li>SNC (ex: Glioblastoma)</li><li>Rim</li><li>Bexiga (Doença não músculo invasiva)</li><li>Melanoma</li><li>Pacientes com disfunção orgânica (Renal; Hepática)</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico descrito</li><li>Formulário do site em PDF</li><li>Exames atualizados com resultados</li></ul><h3>Prazo de resposta</h3><p>Até 72 horas.</p><p><a class='tele-btn' href='https://telessaude.saude.ba.gov.br/telecican/' target='_blank'>Materiais do CICAN</a></p>"
-    },
-    {
-      "id": "telereproducao",
-      "titulo": "Telerreprodução Assistida",
-      "categoria": "regulacao",
-      "link": "/telereproducao",
-      "dados": {
-        "o_que_e": "HUPES oferece apoio matricial e telerregulação em Reprodução Humana Assistida para profissionais da APS e serviços especializados da rede SUS BA. Teleconsultoria orienta manejo, prevenção de fatores de risco preconcepcional e condução de infertilidade/perdas gestacionais/teratogenicidade. Telerregulação avalia pertinência, prioridade e completude para acesso aos ambulatórios do HUPES.",
-        "publico_alvo": [
-          {
-            "perfil": "Profissionais de Saúde de nível superior da APS"
-          }
-        ],
-        "especialidades": [
-          "Reprodução Humana"
-        ],
-        "o_que_deve_ser_enviado": [
-          "Caso clínico descrito da mulher ou do casal",
-          "Exames atualizados e respectivos resultados"
-        ],
-        "prazos_resposta": {
-          "padrao": "até 7 dias"
-        }
-      },
-      "corpoHtml": "<h3>O que é?</h3><p>HUPES oferece apoio matricial e telerregulação em Reprodução Humana Assistida para profissionais da APS e serviços especializados da rede SUS BA. Teleconsultoria orienta manejo, prevenção de fatores de risco preconcepcional e condução de infertilidade/perdas gestacionais/teratogenicidade. Telerregulação avalia pertinência, prioridade e completude para acesso aos ambulatórios do HUPES.</p><h3>Público-alvo</h3><p>Profissionais de Saúde de nível superior da APS.</p><h3>Especialidades</h3><ul><li>Reprodução Humana</li></ul><h3>O que deve ser enviado</h3><ul><li>Caso clínico descrito da mulher ou do casal</li><li>Exames atualizados e respectivos resultados</li></ul><h3>Prazo de resposta</h3><p>Até 7 dias.</p>"
     },
     {
       "id": "teleneurocirurgia",
