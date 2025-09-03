@@ -54,7 +54,7 @@
         "portfolio": {
           "teleclinica_ampliada_ba": [
             "Dermatologia – Matriciamento",
-            "Ginecologia – Matriciamento (PTGI / Prevenção do Câncer de Colo Uterino)",
+            "Ginecologia – Matriciamento (Patologia do Trato Genital Inferior (PTGI) / Prevenção do Câncer de Colo Uterino)",
             "Hepatologia/Gastroenterologia – Matriciamento",
             "Imunologia/Alergologia – Matriciamento",
             "Medicina de Família e Comunidade – Matriciamento",
@@ -245,7 +245,7 @@
           "DM1/DM2 (adulto e pediátrico)",
           "Obesidade",
           "Pé diabético e complicações",
-          "Ginecologia: PTGI / Prevenção do Câncer de Colo Uterino",
+          "Ginecologia: Patologia do Trato Genital Inferior (PTGI) / Prevenção do Câncer de Colo Uterino",
           "Obstetrícia: Pré-natal de Risco Habitual"
         ],
         "especialidades_para_toda_equipe": [
@@ -279,7 +279,7 @@
           ]
         }
       },
-      "corpoHtml": "<h3>O que é?</h3><p>Apoio à equipe de enfermagem da APS em três frentes: equipe do Telessaúde (temas gerais), equipe do CEDEBA para enfermeiros (DM1/DM2, obesidade, pé diabético), e teleconsultoria em Ginecologia (FMB-UFBA). Inclui matriciamento MCO para Amamentação e Pré-natal de Risco Habitual.</p><h3>Público-alvo</h3><p>Profissionais de enfermagem da APS.</p><h3>Especialidades (enfermeiros APS)</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Pé diabético e complicações</li><li>Ginecologia: PTGI / Prevenção do Câncer de Colo Uterino</li><li>Obstetrícia: Pré-natal de Risco Habitual</li></ul><h3>Para toda a equipe</h3><ul><li>Temas gerais da atuação da enfermagem na APS</li><li>Aleitamento Materno com apoio multiprofissional (Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre cuidados gerais de enfermagem na APS</li><li>Manejo de diabetes/obesidade/pé diabético, com exames e imagens relevantes</li><li>Informações clínicas completas</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>FMB/MCO/CEDEBA:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul>"
+      "corpoHtml": "<h3>O que é?</h3><p>Apoio à equipe de enfermagem da APS em três frentes: equipe do Telessaúde (temas gerais), equipe do CEDEBA para enfermeiros (DM1/DM2, obesidade, pé diabético), e teleconsultoria em Ginecologia (FMB-UFBA). Inclui matriciamento MCO para Amamentação e Pré-natal de Risco Habitual.</p><h3>Público-alvo</h3><p>Profissionais de enfermagem da APS.</p><h3>Especialidades (enfermeiros APS)</h3><ul><li>DM1/DM2 (adulto e pediátrico)</li><li>Obesidade</li><li>Pé diabético e complicações</li><li>Ginecologia: Patologia do Trato Genital Inferior (PTGI) / Prevenção do Câncer de Colo Uterino</li><li>Obstetrícia: Pré-natal de Risco Habitual</li></ul><h3>Para toda a equipe</h3><ul><li>Temas gerais da atuação da enfermagem na APS</li><li>Aleitamento Materno com apoio multiprofissional (Nutrição, Fonoaudiologia, Odontologia, Enfermagem e Neonatologia)</li></ul><h3>O que deve ser enviado</h3><ul><li>Dúvidas sobre cuidados gerais de enfermagem na APS</li><li>Manejo de diabetes/obesidade/pé diabético, com exames e imagens relevantes</li><li>Informações clínicas completas</li></ul><h3>Solicitação</h3><p>Pelo STT, com registro completo do caso clínico.</p><h3>Prazo de resposta</h3><ul><li><strong>FMB/MCO/CEDEBA:</strong> até 7 dias.</li><li><strong>Telessaúde BA:</strong> até 72 horas.</li></ul>"
     },
     {
       "id": "tele-suspec",
